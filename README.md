@@ -153,16 +153,18 @@ Debido a que el **customer persona** es quien desarrolla todo el flujo de compra
 > El perfil nuestro user persona no difiere mucho de nuestros customer personas. En la mayoría de los casos, el user persona termina convirtiéndose en el futuro customer persona.
 
 <br>
-### 2.3 Costumer Journey Map 
+###2.3 Costumer Journey Map 
 
 <br>
-<center><img width="1623" alt="Customer Journey Map - Detalazo" src="https://user-images.githubusercontent.com/51206952/64035408-50fd3000-cb16-11e9-878a-d24401de877e.png"></center>
+<center><img width="1623" alt="Customer Journey Map - Detalazo" src="https://user-images.githubusercontent.com/51206952/64035408-50fd3000-cb16-11e9-878a-d24401de877e.png">
+</center>
 <br>
 
 ### 2.4. Problem Statements
 Identificamos una más de 10 problem statements centrados en nuestro Customer Persona, de los cuales priorizamos los siguientes:
 
-<center><img width="881" alt="problem statement" src="https://user-images.githubusercontent.com/51206952/64036986-1f866380-cb1a-11e9-8542-98ba69fb0a4b.PNG"></center>
+<center><img width="881" alt="problem statement" src="https://user-images.githubusercontent.com/51206952/64036986-1f866380-cb1a-11e9-8542-98ba69fb0a4b.PNG">
+</center>
 
 Para profundizar y priorizar las soluciones para nuestros problems statement utilizamos las siguientes **herramientas**:
 
@@ -192,7 +194,8 @@ Las principales necesidades de nuestros usuarios era las siguientes:
 
 ### 3.1 User Flow
 
-<center><img width="1923" alt="User Flow" src="https://user-images.githubusercontent.com/51206952/64037109-6e33fd80-cb1a-11e9-84ca-a461a0316524.png"></center>
+<center><img width="1923" alt="User Flow" src="https://user-images.githubusercontent.com/51206952/64037109-6e33fd80-cb1a-11e9-84ca-a461a0316524.png">
+</center>
 <br>
 
 
@@ -224,7 +227,8 @@ Las principales necesidades de nuestros usuarios era las siguientes:
  
 ###  4.3 Prototipo de alta fidelidad
 
-<center><img width="1923" alt="Pago_Tarjeta" src="https://user-images.githubusercontent.com/51206952/64037674-d20af600-cb1b-11e9-8874-2350552d9327.png"></center>
+<center><img width="1923" alt="Pago_Tarjeta" src="https://user-images.githubusercontent.com/51206952/64037674-d20af600-cb1b-11e9-8874-2350552d9327.png">
+</center>
 
 >  **4.2 Feedback** | 5 usuarios<br>
 1. El registro debería mostrarse antes en la personalización.
