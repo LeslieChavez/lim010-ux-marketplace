@@ -152,10 +152,9 @@ Debido a que el **customer persona** es quien desarrolla todo el flujo de compra
 
 > El perfil nuestro user persona no difiere mucho de nuestros customer personas. En la mayoría de los casos, el user persona termina convirtiéndose en el futuro customer persona.
 
-<br>
-###2.3 Costumer Journey Map 
 
-<br>
+### 2.3 Costumer Journey Map 
+
 <center><img width="1623" alt="Customer Journey Map - Detalazo" src="https://user-images.githubusercontent.com/51206952/64035408-50fd3000-cb16-11e9-878a-d24401de877e.png">
 </center>
 <br>
