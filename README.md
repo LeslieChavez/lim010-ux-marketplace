@@ -3,7 +3,7 @@
 
 |Empresa|Descripción| CEO |Tiempo |
 |:----|:---|:---|:---:|
-|<img width="200" alt="Logo" src="https://user-images.githubusercontent.com/51206952/64038853-d553b100-cb1e-11e9-8af4-d885c53daaa8.jpg">| Ofrece desayunos y piqueños personalizados |Yveth Salas| 5 años |
+|<img width="150" alt="Logo" src="https://user-images.githubusercontent.com/51206952/64038853-d553b100-cb1e-11e9-8af4-d885c53daaa8.jpg">| Ofrece desayunos y piqueños personalizados |Yveth Salas| 5 años |
 
 
 ***
