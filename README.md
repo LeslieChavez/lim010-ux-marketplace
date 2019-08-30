@@ -240,7 +240,7 @@ Las principales necesidades de nuestros usuarios era las siguientes:
 
 #### [1. Prototipo navegable](https://www.figma.com/proto/Ol0ndDU0JXHrlrx1MClF8F/Detalazo-Alta-Fidelidad?node-id=1%3A2&scaling=min-zoom)
 
-#### [2. Producto en Zeplin](https://www.figma.com/proto/WEdZh6AFf7dAMT1tykPDZ5HN/HD-Desktop?node-id=34%3A2&scaling=scale-down-width)
+#### [2. Producto en Zeplin](https://drive.google.com/drive/u/0/folders/1YKXyaQNMKoYbxmxQefwFB3CzS92Y8yQ1)
 
 #### [5. Link a documentación en Google Drive](https://drive.google.com/drive/folders/1V4aRvXxtB0Z11OKm4tBJcyEDVyTaCskN?usp=sharing)
 
