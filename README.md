@@ -239,6 +239,7 @@ Las principales necesidades de nuestros usuarios era las siguientes:
 ## Enlaces 
 
 #### [1. Prototipo navegable](https://www.figma.com/proto/Ol0ndDU0JXHrlrx1MClF8F/Detalazo-Alta-Fidelidad?node-id=1%3A2&scaling=min-zoom)
+#### [1. Prototipo navegable - Iteración](https://www.figma.com/proto/Z9rv9X4zqPfVLaDiTrh5Ed/Detalazo---Iteracion?node-id=227%3A1302&scaling=min-zoom)
 
 #### [2. Producto en Zeplin](https://drive.google.com/drive/u/0/folders/1YKXyaQNMKoYbxmxQefwFB3CzS92Y8yQ1)
 
