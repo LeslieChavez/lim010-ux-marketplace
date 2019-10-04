@@ -101,7 +101,7 @@ En el bechmark consideramos empresas dedicadas a la venta de desayunos y regalos
 
 Luego de realizar el proceso de investigación, logramos identificar los siguientes problemas:
 
-* El diseño visual de la página web se ve cargada y desorganizada; mientras que los colores son identificados como *"de bebés"*.
+* El diseño visual de la página web se ve cargada y desorganizada.
 * La temática de los productos no son fáciles de ubicar.
 * La información del producto se observa cuando es seleccionado para iniciar la compra. Los usuarios manifestaron que quisieran ver esa información antes de comprar.
 * La comunicación se realiza mediante facebook, instagram y correo electrónico y en la mayoría de casos, la respuesta no es inmediata.
